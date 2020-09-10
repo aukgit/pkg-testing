@@ -1,1 +1,7 @@
-package pkg_testing
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("Hello World")
+}
