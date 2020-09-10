@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="63d50c64-5c8d-4155-9258-09ccdd09a17c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-    </list>
+    <list default="true" id="63d50c64-5c8d-4155-9258-09ccdd09a17c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -48,10 +47,22 @@
       <option name="presentableId" value="Default" />
       <updated>1599750756583</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial updates">
+      <created>1599757376006</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599757376006</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial updates" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -61,10 +72,10 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="699" y="352" key="#Go_Modules/0.27.1920.1053@0.27.1920.1053" timestamp="1599757283038" />
-    <state x="297" y="27" width="1315" height="1053" key="CommitChangelistDialog2" timestamp="1599757302225">
+    <state x="297" y="27" width="1315" height="1053" key="CommitChangelistDialog2" timestamp="1599757375853">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="297" y="27" width="1315" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1599757302225" />
+    <state x="297" y="27" width="1315" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1599757375853" />
     <state x="302" y="101" width="1316" height="912" key="SettingsEditor" timestamp="1599750782581">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
