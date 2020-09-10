@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import (
+	"github.com/matishsiao/goInfo"
+)
 
 func main() {
-	fmt.Print("Hello World")
+	gi := goInfo.GetInfo()
+	gi.VarDump()
 }

@@ -8,7 +8,7 @@ build:
 run:
 	echo "running code"
 	make build
-	cd $(BuildPath) && ./main
+	cd $(BuildPath) && clear && ./main
 
 clean:
 	rm -rf $(BuildPath)
