@@ -8,5 +8,7 @@
 
 ## Notes
 
+- [lpabon/godbc: Design by contract for Go](https://github.com/lpabon/godbc)
+
 ## Contributors
 

@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="63d50c64-5c8d-4155-9258-09ccdd09a17c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/makefile" beforeDir="false" afterPath="$PROJECT_DIR$/makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +20,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$PROJECT_DIR$/../../../../../linuxbrew/.linuxbrew/Cellar/go/1.15/libexec" />
+  <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,9 +43,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Go" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/aukgit/pkgtesting/cmd/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="pkg-testing" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/main/main.go" />
+      <package value="github.com/aukgit/pkgtesting/cmd/main" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/aukgit/pkgtesting/cmd/main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -93,6 +110,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="297" y="27" width="1315" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1599757406639" />
+    <state width="1395" height="253" key="GridCell.Tab.0.bottom" timestamp="1600691054637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691054637" />
+    <state width="1395" height="253" key="GridCell.Tab.0.center" timestamp="1600691054637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="253" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691054637" />
+    <state width="1395" height="253" key="GridCell.Tab.0.left" timestamp="1600691054637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="253" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691054637" />
+    <state width="1395" height="253" key="GridCell.Tab.0.right" timestamp="1600691054637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1395" height="253" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691054637" />
     <state x="302" y="101" width="1316" height="912" key="SettingsEditor" timestamp="1599750782581">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
