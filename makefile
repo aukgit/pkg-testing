@@ -1,19 +1,27 @@
-BuildPath = "./bin"
+BinariesDirectory = ./bin
+MainDirectory = ./cmd/main
+
+linux-mkdir:
+	mkdir -p "$(BinariesDirectory)"
+
+windows-mkdir:
+	if not exist "$(BinariesDirectory)" mkdir "$(BinariesDirectory)"
+
+linux-build:
+	make linux-mkdir
+	make basic-build
+
+basic-build:
+	go build -o "$(BinariesDirectory)" "$(MainDirectory)/main.go"
 
 build:
-	echo "building code"
-	mkdir -p $(BuildPath)
-	go build -o $(BuildPath) main.go
+	make windows-mkdir
+	make basic-build
+
+linux-run:
+	make linux-build
+	make basic-build
 
 run:
-	echo "running code"
 	make build
-	cd $(BuildPath) && clear && ./main
-
-clean:
-	rm -rf $(BuildPath)
-
-labels:
-	echo "build"
-	echo "run"
-	echo "clean"
+	cd "$(BinariesDirectory)" && main
