@@ -9,3 +9,4 @@ import (
 func getHostInfo() {
 	fmt.Println(host.PlatformInformation())
 }
+c
