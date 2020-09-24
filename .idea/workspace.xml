@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d50c64-5c8d-4155-9258-09ccdd09a17c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd/main/getHostInfo.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/main/godbc.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main/godbc.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/main/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/main/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-    </list>
+    <list default="true" id="63d50c64-5c8d-4155-9258-09ccdd09a17c" name="Default Changelist" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599757406756</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1600930649051</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600930649051</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +126,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial updates" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -140,26 +141,26 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="297" y="27" width="1315" height="1053" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1599757406639" />
-    <state width="1380" height="548" key="GridCell.Tab.0.bottom" timestamp="1600930567833">
+    <state width="1380" height="548" key="GridCell.Tab.0.bottom" timestamp="1600930648563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1395" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691926333" />
-    <state width="1380" height="548" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600930567833" />
-    <state width="1380" height="548" key="GridCell.Tab.0.center" timestamp="1600930567833">
+    <state width="1380" height="548" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600930648563" />
+    <state width="1380" height="548" key="GridCell.Tab.0.center" timestamp="1600930648563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1395" height="316" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691926333" />
-    <state width="1380" height="548" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600930567833" />
-    <state width="1380" height="548" key="GridCell.Tab.0.left" timestamp="1600930567833">
+    <state width="1380" height="548" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600930648563" />
+    <state width="1380" height="548" key="GridCell.Tab.0.left" timestamp="1600930648563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1395" height="316" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691926333" />
-    <state width="1380" height="548" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600930567833" />
-    <state width="1380" height="548" key="GridCell.Tab.0.right" timestamp="1600930567833">
+    <state width="1380" height="548" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600930648563" />
+    <state width="1380" height="548" key="GridCell.Tab.0.right" timestamp="1600930648563">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1395" height="316" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600691926333" />
-    <state width="1380" height="548" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600930567833" />
+    <state width="1380" height="548" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600930648563" />
     <state width="1395" height="316" key="GridCell.Tab.1.bottom" timestamp="1600691926335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -6,6 +6,6 @@ import (
 	"github.com/shirou/gopsutil/host"
 )
 
-func getHostInfo(){
-	fmt.Println(host.PlatformInformation().)
+func getHostInfo() {
+	fmt.Println(host.PlatformInformation())
 }
