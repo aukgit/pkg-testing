@@ -1,10 +1,10 @@
-package main
+package pkgimports
 
 import (
 	"github.com/matishsiao/goInfo"
 )
 
-func goInfoRun() {
+func GoInfoRun() {
 	gi := goInfo.GetInfo()
 	gi.VarDump()
 }

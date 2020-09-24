@@ -1,4 +1,4 @@
-package main
+package pkgimports
 
 import (
 	"fmt"
@@ -6,7 +6,6 @@ import (
 	"github.com/shirou/gopsutil/host"
 )
 
-func getHostInfo() {
+func GetHostInfo() {
 	fmt.Println(host.PlatformInformation())
 }
-c
