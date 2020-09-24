@@ -13,5 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-bin/main
-.idea/vcs.xml
+bin/*.*
+
+# IDE
+
+.idea
+.idea/*.*
+.idea/**/*.*
+**/.idea/*.*
+**/.idea/**/*.*
+**/**/.idea/*.*
+**/**/.idea/**/*.*
+.idea/*.*
+.idea/**/*.*
