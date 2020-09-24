@@ -15,14 +15,4 @@
 # vendor/
 bin/*.*
 
-# IDE
 
-.idea
-.idea/*.*
-.idea/**/*.*
-**/.idea/*.*
-**/.idea/**/*.*
-**/**/.idea/*.*
-**/**/.idea/**/*.*
-.idea/*.*
-.idea/**/*.*
