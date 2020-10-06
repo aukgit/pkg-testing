@@ -1,6 +1,6 @@
-# Timezone based research
+# Golang `Timezone` Time-Zone based research
 
-## References
+## References (Golang Timezone)
 
 * [datetime - How to get timezone from country - Stack Overflow](https://stackoverflow.com/questions/51346476/how-to-get-timezone-from-country)
 * [go - How to get equivalent time in another timezone - Stack Overflow](https://stackoverflow.com/questions/42940065/how-to-get-equivalent-time-in-another-timezone)
@@ -9,7 +9,7 @@
 * [Golang : Display list of time zones with GMT](https://www.socketloop.com/tutorials/golang-display-list-of-timezones-with-gmt)
 * [Timezone sample code that works](https://play.golang.org/p/GenIhfkGLQw)
 
-## Code Samples
+## Code Samples (Golang Timezone)
 
 https://github.com/aukgit/pkg-testing/blob/master/cmd/timezone/timezone.go
 
@@ -187,7 +187,7 @@ func main() {
 }
 ```
 
-Sample outputs
+### Sample outputs from Windows machine
 
 ```
 GOROOT=C:\Go #gosetup
