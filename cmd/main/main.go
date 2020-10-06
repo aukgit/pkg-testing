@@ -1,7 +1,12 @@
 package main
 
-import "github.com/aukgit/pkgtesting/pkgimports"
+import (
+	"fmt"
+	"time"
+)
 
 func main() {
-	pkgimports.GetHostInfo()
+	// pkgimports.GetHostInfo()
+	l, _ := time.LoadLocation("America/New_York")
+	fmt.Printf("%v\n", *l)
 }
