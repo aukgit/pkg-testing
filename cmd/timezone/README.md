@@ -8,6 +8,7 @@
 * [go - How to get the current timestamp in other timezones in Golang? - Stack Overflow](https://stackoverflow.com/questions/27991671/how-to-get-the-current-timestamp-in-other-timezones-in-golang)
 * [Golang : Display list of time zones with GMT](https://www.socketloop.com/tutorials/golang-display-list-of-timezones-with-gmt)
 * [Timezone sample code that works](https://play.golang.org/p/GenIhfkGLQw)
+* [src/time/zoneinfo_abbrs_windows.go - The Go Programming Language](https://golang.org/src/time/zoneinfo_abbrs_windows.go)
 
 ## Code Samples (Golang Timezone)
 
