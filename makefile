@@ -25,3 +25,6 @@ linux-run:
 run:
 	make build
 	cd "$(BinariesDirectory)" && main
+
+run-os:
+	go run cmd/osfilepathtesting/ostesting.go
