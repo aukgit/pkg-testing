@@ -28,3 +28,22 @@ run:
 
 run-os:
 	go run cmd/osfilepathtesting/ostesting.go
+
+
+run-tests:
+	cd tests && go test -v
+
+cat-ssh:
+	cat ~/.ssh/id_rsa.pub
+
+ssh-sample:
+	echo "ssh-keygen -t rsa -b 4096 -C 'Your email'"
+
+modify-authorized-keys:
+	sudo vim ~/.ssh/authorized_keys
+
+git-clean-get:
+	git reset --hard
+	git clean -df
+	git status
+	git pull
