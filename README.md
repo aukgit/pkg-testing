@@ -1,4 +1,8 @@
 # pkg-testing
+
+## Clone
+
+`git clone https://github.com/aukgit/pkg-testing.git`
  
 ## Packages Links
 
