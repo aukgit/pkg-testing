@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
+	fmt.Println(BaseFunc())
 	fmt.Println(OverrideFunc())
 }

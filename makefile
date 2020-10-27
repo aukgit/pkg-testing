@@ -27,8 +27,7 @@ run:
 	cd "$(BinariesDirectory)" && main
 
 run-os:
-	go run cmd/osfilepathtesting/ostesting.go
-
+	go run cmd/osfilepathtesting/main.go
 
 run-tests:
 	cd tests && go test -v
